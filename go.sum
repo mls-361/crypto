@@ -1,0 +1,6 @@
+github.com/mls-361/buffer v0.0.0-20201227143939-c64ae381f889 h1:fSUuC8iBO9B0foEMuh3DiisLUPpYmnkOnqZOeSfHtlI=
+github.com/mls-361/buffer v0.0.0-20201227143939-c64ae381f889/go.mod h1:skxL3BFTFnQe9Z8QD8DpEygWzVGTlcRPWc3tcQgRDRY=
+github.com/mls-361/failure v0.0.0-20201227154939-339a9d0e6076 h1:aGbGnkWSpG2fFiJRqYzihitDJcnV1GZ/LCVN5HUlFPw=
+github.com/mls-361/failure v0.0.0-20201227154939-339a9d0e6076/go.mod h1:EkfY7viA9A7PIUwLfWKpAkZrNW7PNCbRe4OAu0tKY/4=
+github.com/mls-361/logfmt v0.0.0-20201227152049-109f0b8c6ea8 h1:8YS1mr0XNoI4qrbbIxb96V26sDRtzLzNytJ19CrFQDE=
+github.com/mls-361/logfmt v0.0.0-20201227152049-109f0b8c6ea8/go.mod h1:eZFCuCrYbT2CH7QHrPpDYQdg8rtmdaSpwJoN9mWGNLQ=
