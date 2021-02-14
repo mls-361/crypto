@@ -1,6 +1,6 @@
-github.com/mls-361/buffer v0.0.0-20210103213437-81ee3f6478c8 h1:SNPGm0iMWj0Mb26/TKSScvdE+w98++yMNe5LfzlQn8c=
-github.com/mls-361/buffer v0.0.0-20210103213437-81ee3f6478c8/go.mod h1:skxL3BFTFnQe9Z8QD8DpEygWzVGTlcRPWc3tcQgRDRY=
-github.com/mls-361/failure v0.0.0-20210103213724-67f4cd2e77b7 h1:l++wiAF9NpU/7+DScxxRVB4YLGtr6r1PpS95BhE4JxA=
-github.com/mls-361/failure v0.0.0-20210103213724-67f4cd2e77b7/go.mod h1:tM7wbGoXpoDx7widuG+NJQ0WW4PUIr22xImtcBqUbys=
-github.com/mls-361/logfmt v0.0.0-20210103213624-dfce4a07a454 h1:jnBIBFsUZskioh57pVwEX9r++PvxqiFqY03UPfR4XyM=
-github.com/mls-361/logfmt v0.0.0-20210103213624-dfce4a07a454/go.mod h1:qBYtM0w3GM8BleORllSY/szCdDY1Qst6f32oumitrQs=
+github.com/mls-361/buffer v0.0.0-20210214143923-2dc8b703831b h1:idkigFFk06uq8KDZjfmrIj2qXYO4F466ZHrKkA8Ak8E=
+github.com/mls-361/buffer v0.0.0-20210214143923-2dc8b703831b/go.mod h1:skxL3BFTFnQe9Z8QD8DpEygWzVGTlcRPWc3tcQgRDRY=
+github.com/mls-361/failure v0.0.0-20210214150656-bf33513ce561 h1:KMNRnoFBAQT3GACQG8USlKWLgkGt6iG7xgYH2fbpwJc=
+github.com/mls-361/failure v0.0.0-20210214150656-bf33513ce561/go.mod h1:BWQr6RZOwoWz8xbSaQ/UDhncmL+diACBTHa1CEYLfSA=
+github.com/mls-361/logfmt v0.0.0-20210214150102-dc79140262f2 h1:Zt6lQ5jFV60/7KuP2zqgI1kCOhXsoUmwfANYR/5vtTM=
+github.com/mls-361/logfmt v0.0.0-20210214150102-dc79140262f2/go.mod h1:DKp8pWoA93y8WBQiSR0KDpNsE2rAioxfQNL+rLcKslU=
